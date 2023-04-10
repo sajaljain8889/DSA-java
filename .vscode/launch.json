@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BarChart",
+            "request": "launch",
+            "mainClass": "BarChart",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "DiffOfTwoArrays",
+            "request": "launch",
+            "mainClass": "DiffOfTwoArrays",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "FFibbonacci",
+            "request": "launch",
+            "mainClass": "FFibbonacci",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "IsANumberPrime",
+            "request": "launch",
+            "mainClass": "IsANumberPrime",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "KthSmallestNumber",
+            "request": "launch",
+            "mainClass": "KthSmallestNumber",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSubarraySum",
+            "request": "launch",
+            "mainClass": "MaximumSubarraySum",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumbersbtwNnN",
+            "request": "launch",
+            "mainClass": "PrimeNumbersbtwNnN",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "RotateTheNumber",
+            "request": "launch",
+            "mainClass": "RotateTheNumber",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "SumOfTwoArrays",
+            "request": "launch",
+            "mainClass": "SumOfTwoArrays",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "SumofTwoArrays",
+            "request": "launch",
+            "mainClass": "SumofTwoArrays",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "factorization",
+            "request": "launch",
+            "mainClass": "factorization",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "gcd",
+            "request": "launch",
+            "mainClass": "gcd",
+            "projectName": "DSA-java_8e9773dd"
+        }
+    ]
+}
