@@ -14,7 +14,6 @@ public class InverseOfNumber {
 
         while (n != 0) {
             dig = n % 10;
-            rNum = n / 10;
             n = n / 10;
 
             p++;

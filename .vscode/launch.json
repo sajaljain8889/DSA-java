@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DifferneArrays",
+            "request": "launch",
+            "mainClass": "DifferneArrays",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "MaxVowels",
+            "request": "launch",
+            "mainClass": "MaxVowels",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "vaish",
+            "request": "launch",
+            "mainClass": "vaish",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "MaxmVowelsinSbStringGvnLength",
+            "request": "launch",
+            "mainClass": "MaxmVowelsinSbStringGvnLength",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "MedianOfSortedArrays",
+            "request": "launch",
+            "mainClass": "MedianOfSortedArrays",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "testReverseInte",
+            "request": "launch",
+            "mainClass": "testReverseInte",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "PalindromNum",
+            "request": "launch",
+            "mainClass": "PalindromNum",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "AddNumbersLL",
+            "request": "launch",
+            "mainClass": "AddNumbersLL",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "LongestPalindroicSubstring",
+            "request": "launch",
+            "mainClass": "LongestPalindroicSubstring",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "containerDiffApproach",
+            "request": "launch",
+            "mainClass": "containerDiffApproach",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "Ctnrwidmostwtr",
+            "request": "launch",
+            "mainClass": "Ctnrwidmostwtr",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "ContainerwithMostWater",
+            "request": "launch",
+            "mainClass": "ContainerwithMostWater",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "SubArrayWidGienSum",
+            "request": "launch",
+            "mainClass": "SubArrayWidGienSum",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "KidsWithCandies",
+            "request": "launch",
+            "mainClass": "KidsWithCandies",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "FirstLEmntOccursKtimes",
+            "request": "launch",
+            "mainClass": "FirstLEmntOccursKtimes",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

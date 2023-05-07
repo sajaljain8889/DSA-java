@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class SumOfTwoArrays {
     public static void main(String[] args) {
