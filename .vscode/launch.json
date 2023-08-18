@@ -6,6 +6,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AllPathSrcToTar",
+            "request": "launch",
+            "mainClass": "Graph.AllPathSrcToTar",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "BFSTraversal",
+            "request": "launch",
+            "mainClass": "Graph.BFSTraversal",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "GenralGraph",
+            "request": "launch",
+            "mainClass": "Graph.GenralGraph",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "WeightedGraph",
+            "request": "launch",
+            "mainClass": "Graph.WeightedGraph",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "Classroom",
+            "request": "launch",
+            "mainClass": "Graph.Classroom",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "Multiplication2DArrays",
+            "request": "launch",
+            "mainClass": "MultiTheading.Multiplication2DArrays",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "MultiTheading.Main",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "FirstElementOccurresKtimes",
+            "request": "launch",
+            "mainClass": "FirstElementOccurresKtimes",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "CheckBothArrayIsEqualorNot",
+            "request": "launch",
+            "mainClass": "CheckBothArrayIsEqualorNot",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "MaxScore",
+            "request": "launch",
+            "mainClass": "MaxScore",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "LovelyCards",
+            "request": "launch",
+            "mainClass": "LovelyCards",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "GroupAnagram",
+            "request": "launch",
+            "mainClass": "GroupAnagram",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "DiagonalSumOfaMatrix",
+            "request": "launch",
+            "mainClass": "DiagonalSumOfaMatrix",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "LongestObstacleCourseAtEachPosition",
+            "request": "launch",
+            "mainClass": "LongestObstacleCourseAtEachPosition",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "SubsequenceswithaGivenSum",
+            "request": "launch",
+            "mainClass": "SubsequenceswithaGivenSum",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "AvgSaleryExcMinMax",
+            "request": "launch",
+            "mainClass": "AvgSaleryExcMinMax",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
+            "name": "SignOfProductOfArray",
+            "request": "launch",
+            "mainClass": "SignOfProductOfArray",
+            "projectName": "DSA-java_8e9773dd"
+        },
+        {
+            "type": "java",
             "name": "DifferneArrays",
             "request": "launch",
             "mainClass": "DifferneArrays",

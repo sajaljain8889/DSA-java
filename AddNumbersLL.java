@@ -1,4 +1,3 @@
-import java.util.LinkedList;
 
 public class AddNumbersLL {
     public static void main(String argu[]) {

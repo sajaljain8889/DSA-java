@@ -3,9 +3,9 @@ public class FirstLEmntOccursKtimes {
 
     public static void main(String argu[]) {
 
-        int a[] = { 1, 7, 9, 9, 9, 2, 6, 7, 7, 7 };
-        int n = 10;
-        int k = 3;
+        int a[] = { 1, 7, 4, 3, 4, 8, 7 };
+        int n = 7;
+        int k = 2;
         int ans = 0;
         int mx = Integer.MIN_VALUE;
         for (int i = 0; i < n; i++) {
