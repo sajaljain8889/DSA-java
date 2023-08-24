@@ -1,7 +1,7 @@
 public class KthSmallestNumber {
     public static void main(String argu[]) {
-        int arr[] = { -1, 0, -6, 2, 5, 1 };
-        int k = 1;
+        int arr[] = { 1, 0, 6, 2, 5, 1 };
+        int k = 3;
         int x = 0;
 
         int ans[] = new int[k];

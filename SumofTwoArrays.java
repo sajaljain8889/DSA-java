@@ -35,17 +35,6 @@ public class SumofTwoArrays {
         for (int x : ans) {
             System.out.print(x);
         }
-        // for (int i = a.length - 1, j = b.length - 1; i >= 0 || j >= 0; i--, j--) {
-        // if (a[i] + b[j] >= 10 && i <= 0)
-        // ans[i - 1] += 1;
-
-        // ans[z] = (a[i] + b[j]) % 10;
-        // z--;
-        // }
-
-        // for (int j : ans) {
-        // System.out.println(j);
-        // }
 
     }
 }
